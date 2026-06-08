@@ -2,22 +2,20 @@
 FROM node:20-alpine AS builder
 WORKDIR /app
 COPY package*.json ./
-RUN npm ci
+RUN npm install
 COPY . .
 RUN npm run build
 
-# Stage 2: Serve the build files using Nginx
-FROM nginx:alpine
-COPY --from=builder /app/dist /usr/share/nginx/html
-# Copy custom Nginx configuration to support SPA routing if needed
-RUN echo 'server { \
-    listen 8080; \
-    location / { \
-        root /usr/share/nginx/html; \
-        index index.html index.htm; \
-        try_files $uri $uri/ /index.html; \
-    } \
-}' > /etc/nginx/conf.d/default.conf
+# Stage 2: Serve the build files using Node.js
+FROM node:20-alpine
+WORKDIR /app
+COPY package*.json ./
+RUN npm install --only=production
+COPY --from=builder /app/dist ./dist
+COPY server.js ./
 
 EXPOSE 8080
-CMD ["nginx", "-g", "daemon off;"]
+ENV PORT=8080
+ENV NODE_ENV=production
+
+CMD ["node", "server.js"]

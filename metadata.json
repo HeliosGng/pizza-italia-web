@@ -1,0 +1,6 @@
+{
+  "name": "Pizza Italia",
+  "description": "An elegant, highly-responsive menu and WhatsApp ordering website for Pizza Italia in Tirana, Albania with live GPS location sharing and real-time pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -676,7 +676,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionSq: 'Ujë i pastër burimi dhe i ftohtë freskues.',
     priceSq: 100,
     category: 'drinks',
-    image: 'https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=600&auto=format&fit=crop&q=80'
+    image: 'https://imageproxy.wolt.com/assets/664c5d33d4f69826da86c726?w=600'
   },
   {
     id: 'drink-dhalle',
@@ -686,7 +686,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionSq: 'Dhallë tradicionale e ftohtë, e përgatitur me kos të freskët dhe kripë.',
     priceSq: 100,
     category: 'drinks',
-    image: 'https://images.unsplash.com/photo-1626132647523-66f5bf380027?q=80&w=600&auto=format&fit=crop&q=80'
+    image: 'https://imageproxy.wolt.com/assets/69a6bed27d25f60394a0de33?w=600'
   },
   {
     id: 'drink-cola',
@@ -696,7 +696,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionSq: 'Shije origjinale, pije gazuar e ftohtë akull.',
     priceSq: 150,
     category: 'drinks',
-    image: 'https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=600&auto=format&fit=crop&q=80'
+    image: 'https://imageproxy.wolt.com/assets/664c5d38d4f69826da86c728?w=600'
   },
   {
     id: 'drink-fanta-orange',
@@ -706,7 +706,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionSq: 'Pije e gazuar me shije fantastike portokalli.',
     priceSq: 150,
     category: 'drinks',
-    image: 'https://images.unsplash.com/photo-1624517452488-04869289c4ca?w=600&auto=format&fit=crop&q=80'
+    image: 'https://imageproxy.wolt.com/assets/69a6bec91950601875b8939f?w=600'
   },
   {
     id: 'drink-fanta-exotic',
@@ -716,7 +716,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionSq: 'Pije e gazuar me shije fantastike frutash ekzotike tropikale.',
     priceSq: 150,
     category: 'drinks',
-    image: 'https://images.unsplash.com/photo-1543257580-7269da773bf5?w=600&auto=format&fit=crop&q=80'
+    image: 'https://imageproxy.wolt.com/assets/69a4b7aa7d25f60394a057bd?w=600'
   }
 ];
 

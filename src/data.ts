@@ -669,48 +669,54 @@ export const MENU_ITEMS: MenuItem[] = [
 
   // --- REFRESHMENTS (Drinks) ---
   {
-    id: 'drink-cola',
-    nameEn: 'Coca-Cola (0.33l)',
-    nameSq: 'Koka-Kola (0.33l)',
-    descriptionEn: 'Original taste, icy cold canned soda.',
-    descriptionSq: 'Shije origjinale, pije freskuese e konservuar e ftohtë akull.',
-    priceSq: 150,
-    category: 'drinks',
-    image: 'https://images.pexels.com/photos/3826278/pexels-photo-3826278.jpeg?auto=compress&cs=tinysrgb&w=600',
-    tagsEn: ['Ice Cold'],
-    tagsSq: ['Akull e Ftohtë']
-  },
-  {
-    id: 'drink-fanta',
-    nameEn: 'Fanta Orange (0.33l)',
-    nameSq: 'Fanta Portokall (0.33l)',
-    descriptionEn: 'Bright and sparkling orange soda.',
-    descriptionSq: 'Pije gazuar me shije fantastike portokalli.',
-    priceSq: 150,
-    category: 'drinks',
-    image: 'https://images.pexels.com/photos/97085/pexels-photo-97085.jpeg?auto=compress&cs=tinysrgb&w=600'
-  },
-  {
     id: 'drink-water',
-    nameEn: 'Spring Water (0.5l)',
-    nameSq: 'Ujë Burimi (0.5l)',
-    descriptionEn: 'Pure mountain non-sparkling spring water.',
-    descriptionSq: 'Ujë i pastër natyral burimi i freskët malor.',
+    nameEn: 'Ujë (Spring Water)',
+    nameSq: 'Ujë',
+    descriptionEn: 'Pure and refreshing cold spring water.',
+    descriptionSq: 'Ujë i pastër burimi dhe i ftohtë freskues.',
     priceSq: 100,
     category: 'drinks',
-    image: 'https://images.pexels.com/photos/407041/pexels-photo-407041.jpeg?auto=compress&cs=tinysrgb&w=600'
+    image: 'https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=600&auto=format&fit=crop&q=80'
   },
   {
-    id: 'drink-korca',
-    nameEn: 'Korca Premium Beer (0.33l)',
-    nameSq: 'Birrë Korça (0.33l)',
-    descriptionEn: 'The traditional premium blonde Albanian lager, crisp & refreshing.',
-    descriptionSq: 'Birra tradicionale shqiptare, bjonde e freskët me shije unike.',
-    priceSq: 200,
+    id: 'drink-dhalle',
+    nameEn: 'Dhallë',
+    nameSq: 'Dhallë',
+    descriptionEn: 'Traditional cold savory yogurt drink, highly refreshing.',
+    descriptionSq: 'Dhallë tradicionale e ftohtë, e përgatitur me kos të freskët dhe kripë.',
+    priceSq: 100,
     category: 'drinks',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/2/29/Birra_Korca.jpg',
-    tagsEn: ['Local Favorite'],
-    tagsSq: ['E Preferuara Vendase']
+    image: 'https://images.unsplash.com/photo-1626132647523-66f5bf380027?q=80&w=600&auto=format&fit=crop&q=80'
+  },
+  {
+    id: 'drink-cola',
+    nameEn: 'Coca-Cola',
+    nameSq: 'Coca Cola',
+    descriptionEn: 'Original taste, icy cold sparkling soda.',
+    descriptionSq: 'Shije origjinale, pije gazuar e ftohtë akull.',
+    priceSq: 150,
+    category: 'drinks',
+    image: 'https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=600&auto=format&fit=crop&q=80'
+  },
+  {
+    id: 'drink-fanta-orange',
+    nameEn: 'Fanta Orange',
+    nameSq: 'Fanta Orange',
+    descriptionEn: 'Bright and sparkling orange soda.',
+    descriptionSq: 'Pije e gazuar me shije fantastike portokalli.',
+    priceSq: 150,
+    category: 'drinks',
+    image: 'https://images.unsplash.com/photo-1624517452488-04869289c4ca?w=600&auto=format&fit=crop&q=80'
+  },
+  {
+    id: 'drink-fanta-exotic',
+    nameEn: 'Fanta Exotic',
+    nameSq: 'Fanta Exotic',
+    descriptionEn: 'Tropical exotic fruit sparkling soda.',
+    descriptionSq: 'Pije e gazuar me shije fantastike frutash ekzotike tropikale.',
+    priceSq: 150,
+    category: 'drinks',
+    image: 'https://images.unsplash.com/photo-1543257580-7269da773bf5?w=600&auto=format&fit=crop&q=80'
   }
 ];
 

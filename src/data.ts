@@ -464,7 +464,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'mayonnaise, fresh tomato slices, sliced olives, mozzarella, premium salami',
     priceSq: 150,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/1603901/pexels-photo-1603901.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600',
     tagsSq: ['Klasik'],
     tagsEn: ['Classic']
   },
@@ -476,7 +476,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'mayonnaise, sweet tomatoes, black olives, mozzarella cheese, classic cooked ham',
     priceSq: 200,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/1209029/pexels-photo-1209029.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600',
     tagsSq: ['E Preferuar'],
     tagsEn: ['Top Choice'],
     isPopular: true
@@ -489,7 +489,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'creamy mayonnaise, soft mozzarella, savory cooked ham, sautéed mountain mushrooms',
     priceSq: 230,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/1600891/pexels-photo-1600891.jpeg?auto=compress&cs=tinysrgb&w=600'
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600'
   },
   {
     id: 'sand-fshati',
@@ -499,7 +499,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'light mayo, rich tomatoes, local olives, organic soft white cheese, salami slices',
     priceSq: 170,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/580612/pexels-photo-580612.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600',
     tagsSq: ['Fshati'],
     tagsEn: ['Traditional']
   },
@@ -511,7 +511,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'mayonnaise, tomatoes, sliced olives, fresh mozzarella, traditional salad cheese, wild baby arugula',
     priceSq: 250,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/1805164/pexels-photo-1805164.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600',
     tagsSq: ['E Freskët'],
     tagsEn: ['Freshly Tossed']
   },
@@ -523,7 +523,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'house mayo, fresh sweet tomatoes, rich olives, mozzarella, bonito shredded tuna',
     priceSq: 200,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/1600891/pexels-photo-1600891.jpeg?auto=compress&cs=tinysrgb&w=600'
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600'
   },
   {
     id: 'sand-pikant',
@@ -533,7 +533,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'mayonnaise, tomato, black olives, mozzarella, hot Italian fiery ventricina salami',
     priceSq: 230,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/1603901/pexels-photo-1603901.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600',
     tagsSq: ['Pikante'],
     tagsEn: ['Spicy']
   },
@@ -545,7 +545,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'mayo, tomato slices, olives, mozzarella, melting gouda, rich gorgonzola, soft white cheese',
     priceSq: 200,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/1209029/pexels-photo-1209029.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600',
     tagsSq: ['4 Djathërat'],
     tagsEn: ['4 Cheeses']
   },
@@ -557,7 +557,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'mayo, tomatoes, black olives, mozzarella, fiery ventricina salami, light cream coat, mushrooms',
     priceSq: 250,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/1128678/pexels-photo-1128678.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600',
     tagsSq: ['Krem dhe Kërpurdhë'],
     tagsEn: ['Super Creamy']
   },
@@ -569,7 +569,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'gourmet mayonnaise, rich mozzarella, high-grade bonito tuna, sautéed mushroom slices',
     priceSq: 230,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/1600891/pexels-photo-1600891.jpeg?auto=compress&cs=tinysrgb&w=600'
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600'
   },
   {
     id: 'sand-mix',
@@ -579,7 +579,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'savory mayo, tomato, olives, mozzarella, bonito tuna chunks, spicy salami, grilled mushrooms',
     priceSq: 250,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/1600891/pexels-photo-1600891.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600',
     tagsSq: ['Më i Ploti'],
     tagsEn: ['Mega Mix'],
     isPopular: true
@@ -592,7 +592,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'veggie mayo, cream mozzarella, freshly cut tomatoes, black olives, forest mushrooms',
     priceSq: 200,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/580612/pexels-photo-580612.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600',
     tagsSq: ['Kopshti'],
     tagsEn: ['Healthy Garden']
   },
@@ -604,7 +604,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'freshly roasted chicken breast strips, mayonnaise, soft mozzarella, ripe tomatoes, olives',
     priceSq: 250,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/1199960/pexels-photo-1199960.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600',
     tagsSq: ['Fileto Pule'],
     tagsEn: ['High Protein'],
     isPopular: true
@@ -617,7 +617,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'creamy mayonnaise, soft melting mozzarella, premium dry-cured prosciutto crudo, tomatoes, sliced olives',
     priceSq: 280,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/1805164/pexels-photo-1805164.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600',
     tagsSq: ['Mbreti Krudo'],
     tagsEn: ['Authentic Italian']
   },
@@ -629,7 +629,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'light mayonnaise, mozzarella, premium prosciutto crudo, tender white button mushrooms',
     priceSq: 300,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/1600891/pexels-photo-1600891.jpeg?auto=compress&cs=tinysrgb&w=600'
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600'
   },
   {
     id: 'sand-tartufo',
@@ -639,7 +639,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'rich black truffle sauce base, prime prosciutto crudo, field mushrooms, mozzarella, mayonnaise',
     priceSq: 300,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/1351238/pexels-photo-1351238.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600',
     tagsSq: ['Truf i Zi'],
     tagsEn: ['Truffle Heaven'],
     isPopular: true
@@ -652,7 +652,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'premium black truffle cream, hot pepperoni curls, grilled mushrooms, melted mozzarella, mayo',
     priceSq: 300,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/1351238/pexels-photo-1351238.jpeg?auto=compress&cs=tinysrgb&w=600'
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600'
   },
   {
     id: 'sand-pro-special',
@@ -662,7 +662,7 @@ export const MENU_ITEMS: MenuItem[] = [
     descriptionEn: 'mayonnaise, cooked ham, melting mozzarella, traditional soft white cheese, tomatoes, rich heavy cream',
     priceSq: 250,
     category: 'sandwiches',
-    image: 'https://images.pexels.com/photos/1209029/pexels-photo-1209029.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://imageproxy.wolt.com/assets/664c5e820378382c605b3a3c?w=600',
     tagsSq: ['Më i Shijshmi'],
     tagsEn: ['Supreme Choice']
   },

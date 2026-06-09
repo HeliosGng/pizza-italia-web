@@ -1210,7 +1210,6 @@ export default function App() {
               <li><button onClick={() => { setSelectedCategory('pizza'); handleScrollToMenu(); }} className="hover:text-white transition-colors cursor-pointer">{lang === 'en' ? 'Classic Woodfire Pizzas' : 'Pica me Furrë Druri'}</button></li>
               <li><button onClick={() => { setSelectedCategory('sandwiches'); handleScrollToMenu(); }} className="hover:text-white transition-colors cursor-pointer">{lang === 'en' ? 'Artisan Pressed Sandwiches' : 'Sanduiçë të Shtypur'}</button></li>
               <li><button onClick={() => { setSelectedCategory('drinks'); handleScrollToMenu(); }} className="hover:text-white transition-colors cursor-pointer">{lang === 'en' ? 'Cold Soda & Local Beers' : 'Pijet e Ftohta & Beer'}</button></li>
-              <li><button onClick={() => { setSelectedCategory('desserts'); handleScrollToMenu(); }} className="hover:text-white transition-colors cursor-pointer">{lang === 'en' ? 'Decadent Souffle desserts' : 'Ëmbëlsira'}</button></li>
             </ul>
           </div>
 

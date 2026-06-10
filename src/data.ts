@@ -674,7 +674,7 @@ export const MENU_ITEMS: MenuItem[] = [
     nameSq: 'Ujë',
     descriptionEn: 'Pure and refreshing cold spring water.',
     descriptionSq: 'Ujë i pastër burimi dhe i ftohtë freskues.',
-    priceSq: 100,
+    priceSq: 60,
     category: 'drinks',
     image: 'https://imageproxy.wolt.com/assets/664c5d33d4f69826da86c726?w=600'
   },
@@ -684,7 +684,7 @@ export const MENU_ITEMS: MenuItem[] = [
     nameSq: 'Dhallë',
     descriptionEn: 'Traditional cold savory yogurt drink, highly refreshing.',
     descriptionSq: 'Dhallë tradicionale e ftohtë, e përgatitur me kos të freskët dhe kripë.',
-    priceSq: 100,
+    priceSq: 70,
     category: 'drinks',
     image: 'https://imageproxy.wolt.com/assets/69a6bed27d25f60394a0de33?w=600'
   },
@@ -759,8 +759,8 @@ export const REVIEWS = [
 export const TRANSLATIONS: Record<'en' | 'sq', TranslationSet> = {
   en: {
     appName: 'Pizza Italia',
-    tagline: 'Authentic Italian Pizzeria',
-    subtitle: 'Classic Italian pizzas and premium toasted artisan sandwiches in Yzberisht, Tirana. Slowly fermented crust cooked at optimal high heat for the ultimate airy crisp.',
+    tagline: '🍕 Pizza Italia Yzberisht',
+    subtitle: 'For years, Pizza Italia Yzberisht has been the choice of thousands of customers who demand quality, taste and correctness. Each product is carefully prepared using selected beef and chicken, to guarantee freshness and taste in every bite.',
     orderNow: 'Order Now & Choose Menu',
     viewDirections: 'See Location & Directions',
     ourMenu: 'Pizza Italia Menu',
@@ -803,8 +803,8 @@ export const TRANSLATIONS: Record<'en' | 'sq', TranslationSet> = {
   },
   sq: {
     appName: 'Pizza Italia',
-    tagline: 'Pizzeri Autentike Italiane',
-    subtitle: 'Pica me shije autentike furre italiane dhe sanduiçë artizanalë të pjekur në tostierë, në Yzberisht, Tiranë. Brumë i dytë i fermentuar në temperaturë optimale për krokante dhe butësi perfekte.',
+    tagline: '🍕 Pizza Italia Yzberisht',
+    subtitle: 'Prej vitesh, Pizza Italia Yzberisht është zgjedhja e mijëra klientëve që kërkojnë cilësi, shije dhe korrektësi. Çdo produkt përgatitet me kujdes duke përdorur mish viçi dhe pule të përzgjedhur, për të garantuar freski dhe shije në çdo kafshatë.',
     orderNow: 'Porosit Tani dhe Shiko Menunë',
     viewDirections: 'Shiko Adresën dhe Drejtimet',
     ourMenu: 'Menuja e Pica Italia',

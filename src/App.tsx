@@ -1207,9 +1207,9 @@ export default function App() {
           <div className="space-y-3">
             <span className="block text-white font-bold uppercase tracking-wider text-[10px]">{lang === 'en' ? 'Sectors' : 'Sektorët'}</span>
             <ul className="space-y-1.5 text-[11px]">
-              <li><button onClick={() => { setSelectedCategory('pizza'); handleScrollToMenu(); }} className="hover:text-white transition-colors cursor-pointer">{lang === 'en' ? 'Classic Woodfire Pizzas' : 'Pica me Furrë Druri'}</button></li>
-              <li><button onClick={() => { setSelectedCategory('sandwiches'); handleScrollToMenu(); }} className="hover:text-white transition-colors cursor-pointer">{lang === 'en' ? 'Artisan Pressed Sandwiches' : 'Sanduiçë të Shtypur'}</button></li>
-              <li><button onClick={() => { setSelectedCategory('drinks'); handleScrollToMenu(); }} className="hover:text-white transition-colors cursor-pointer">{lang === 'en' ? 'Cold Soda & Local Beers' : 'Pijet e Ftohta & Beer'}</button></li>
+              <li><button onClick={() => { setSelectedCategory('pizza'); handleScrollToMenu(); }} className="hover:text-white transition-colors cursor-pointer">{lang === 'en' ? 'Artizan Pizzas' : 'Pica artizanale'}</button></li>
+              <li><button onClick={() => { setSelectedCategory('sandwiches'); handleScrollToMenu(); }} className="hover:text-white transition-colors cursor-pointer">{lang === 'en' ? 'Sandwiches' : 'Sanduiçë me brum pice'}</button></li>
+              <li><button onClick={() => { setSelectedCategory('drinks'); handleScrollToMenu(); }} className="hover:text-white transition-colors cursor-pointer">{lang === 'en' ? 'Cold Soda ' : 'Pijet e Ftohta '}</button></li>
             </ul>
           </div>
 

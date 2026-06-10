@@ -802,7 +802,7 @@ export default function App() {
             {/* alternative channels buttons */}
             <div className="flex flex-wrap gap-2.5 pt-2" id="channel-action-links">
               <a
-                href="https://wolt.com"
+                href="https://wolt.com/sq/alb/tirana/restaurant/pizza-italia-yzberisht?utm_source=googlemapreserved&utm_campaign=pizza-italia-yzberisht&utm_content=6645fe5a14d0117ed0e95485&category=restaurant&rwg_token=AFd1xnGSboAeenXzg0WTFNTw_xNdIOpYEruulDEnemZjOAmmO-ze5Cybt16WmHKpVHfT7ucGsWjSs9jjHhdoJNlzEepnoEi-T6Oms6UHlUGmLcV_PKoM5kU%3D"
                 target="_blank"
                 rel="noreferrer"
                 className="px-5 py-2.5 bg-emerald-50 text-emerald-700 hover:bg-emerald-100 rounded-xl text-xs font-bold transition-all flex items-center gap-2"
@@ -813,7 +813,7 @@ export default function App() {
               </a>
 
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/pizza.italia.yzb/?hl=en"
                 target="_blank"
                 rel="noreferrer"
                 className="px-5 py-2.5 bg-pink-50 text-pink-700 hover:bg-pink-100 rounded-xl text-xs font-bold transition-all flex items-center gap-2"

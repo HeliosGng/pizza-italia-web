@@ -1195,8 +1195,8 @@ export default function App() {
           <div className="space-y-3">
             <h4 className="text-white font-serif font-black text-base">Pizza Italia</h4>
             <p className="text-[11px] leading-relaxed">
-              {lang === 'en' ? 'The absolute authentic taste of firewood-style Italian pizza cooked at blistering 450°C heat under genuine supervision in Tirana Albania.'
-                             : 'Shija absolute inteligjente e pica italiane me dru pjekur në temperaturë të lartë nën kujdes të veçantë në Tiranë Shqipëri.'}
+              {lang === 'en' ? 'The absolute authentic taste of Italian pizza cooked at blistering 450°C heat under genuine supervision in Tirana Albania.'
+                             : 'Shija absolute inteligjente e picave italiane në temperaturë të lartë nën kujdes të veçantë në Tiranë Shqipëri.'}
             </p>
             <div className="flex items-center gap-1 mt-2">
               <span className="w-2 h-2 bg-emerald-500 rounded-full animate-pulse" />

@@ -406,7 +406,7 @@ export default function App() {
               </div>
               <div>
                 <span className="block text-xl font-bold text-stone-900">450°C</span>
-                <span className="text-xs text-stone-500 font-medium">{lang === 'en' ? 'Woodfire baking' : 'Pjekje me Dru'}</span>
+                <span className="text-xs text-stone-500 font-medium">{lang === 'en' ? 'High temp baking' : 'Pjekje me temp. te larte'}</span>
               </div>
               <div>
                 <span className="block text-xl font-bold text-emerald-600">0 ALL</span>
